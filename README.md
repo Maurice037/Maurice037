@@ -1,7 +1,11 @@
-### Hi there 👋
+* React Developer
+* Hamter-gaming.com
+* 🇩🇪 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maurice037&count_private=true)](https://github.com/dotFionn)
 
 <!--
-**Maurice037/Maurice037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dotFionn/dotFionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
