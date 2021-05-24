@@ -13,7 +13,7 @@
       - SQL
       - JAVA
       - NODE
-      - SQL
+      - SQF
       
 - [Frameworks](#Frameworks)
    - React
