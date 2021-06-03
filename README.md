@@ -12,14 +12,13 @@
       - JS
       - SQL
       - JAVA
-      - NODE
       - SQF
       
 - [Frameworks](#Frameworks)
    - React
    - Express
    - Bootstrap
-   - Disord.js
+   - Discord.js
    - TMJS.js
       
 - [Websites](#Websites)
