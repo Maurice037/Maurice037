@@ -9,7 +9,7 @@
   - [Sprachen](#Sprachen)
       - PHP
       - CSS
-      - JS
+      - JS/Node
       - SQL
       - JAVA
       - SQF
@@ -17,9 +17,19 @@
 - [Frameworks](#Frameworks)
    - React
    - Express
+   - Socket.io
    - Bootstrap
    - Discord.js
    - TMJS.js
+   
+ - [Programme](#Programme)
+   - Illustrator 
+   - InDesign
+   - PhotoShop
+   - visual studio code
+   - Postman
+   - Terminus (terminal for Linux)
+   
       
 - [Websites](#Websites)
   - [Song-Quiz](https://song-quiz.de) 
