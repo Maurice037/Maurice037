@@ -26,7 +26,8 @@
    - Illustrator 
    - InDesign
    - PhotoShop
-   - visual studio code
+   - Premiere pro
+   - Visual studio code
    - Postman
    - Terminus (terminal for Linux)
    
@@ -34,5 +35,5 @@
 - [Websites](#Websites)
   - [Song-Quiz](https://song-quiz.de) 
   - [ultranetz](https://ultranetz.com)
-  - [Hamster-gaming](https://hamster-gaming.com) 
+  - [Hamster-gaming](https://hamster-gaming.de) 
 
