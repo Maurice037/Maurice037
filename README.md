@@ -10,9 +10,11 @@
       - PHP
       - CSS
       - JS/Node
+      - TypeScript
       - SQL
       - JAVA
       - SQF
+      - LUA
       
 - [Frameworks](#Frameworks)
    - React
