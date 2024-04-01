@@ -7,35 +7,34 @@
 
 ### Infos:
   - [Sprachen](#Sprachen)
-      - PHP
-      - CSS
-      - JS/Node
-      - TypeScript
-      - SQL
-      - JAVA
-      - SQF
-      - LUA
+      - <img src="https://skillicons.dev/icons?i=php" width="50" />
+      - <img src="https://skillicons.dev/icons?i=css" width="50" />
+      - <img src="https://skillicons.dev/icons?i=js" width="50" />
+      - <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+      - <img src="https://skillicons.dev/icons?i=ts" width="50" />
+      - <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+      - <img src="https://skillicons.dev/icons?i=java" width="50" />
+      - <img src="https://skillicons.dev/icons?i=lua" width="50" />
       
-- [Frameworks](#Frameworks)
-   - React
-   - Express
-   - Socket.io
-   - Bootstrap
-   - Discord.js
-   - TMJS.js
+  - [Frameworks](#Frameworks)
+      - <img src="https://skillicons.dev/icons?i=react" width="50" />
+      - <img src="https://skillicons.dev/icons?i=express" width="50" />
+      - <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
+      - <img src="https://skillicons.dev/icons?i=discordjs" width="50" />
+      - <img src="https://skillicons.dev/icons?i=electron" width="50" />
    
- - [Programme](#Programme)
-   - Illustrator 
-   - InDesign
-   - PhotoShop
-   - Premiere pro
-   - Visual studio code
-   - Postman
-   - Terminus (terminal for Linux)
+ 	- [Programme](#Programme)
+      - <img src="https://skillicons.dev/icons?i=ai" width="50" />
+      - <img src="https://skillicons.dev/icons?i=ps" width="50" />
+      - <img src="https://skillicons.dev/icons?i=pr" width="50" />
+      - <img src="https://skillicons.dev/icons?i=ae" width="50" />
+      - <img src="https://skillicons.dev/icons?i=xd" width="50" />
+      - <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+      - <img src="https://skillicons.dev/icons?i=postman" width="50" />
+      - <img src="https://skillicons.dev/icons?i=apple" width="50" />
    
       
 - [Websites](#Websites)
   - [Song-Quiz](https://song-quiz.de) 
   - [ultranetz](https://ultranetz.com)
-  - [Hamster-gaming](https://hamster-gaming.de) 
 
