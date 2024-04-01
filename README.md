@@ -36,5 +36,4 @@
       
 - [Websites](#Websites)
   - [Song-Quiz](https://song-quiz.de) 
-  - [ultranetz](https://ultranetz.com)
 
